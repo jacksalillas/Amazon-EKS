@@ -1,1 +1,2 @@
+#How to declare deployments.
 kubectl apply -f <MyDeployment.yaml>
